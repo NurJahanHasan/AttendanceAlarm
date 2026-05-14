@@ -37,6 +37,13 @@ Built using Python and Vosk speech recognition, the application provides a light
 * Smartwatch notifications
 * Menu bar mode
 * Lecture schedule integration
+* ## Demo Videos
+
+### Main Detection Demo
+https://github.com/YOUR_USERNAME/YOUR_REPO/assets/...
+
+### Features Demo
+https://github.com/YOUR_USERNAME/YOUR_REPO/assets/...
 
 ## Disclaimer
 
